@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Can Wang1987，Graduates and IT expert from London,England.This is my personal website and my blog.
+- 👋 Hi, I’m Can Wang(王璨），Graduates and IT expert from London,England.This is my personal website and my blog.
 - 👀 I’m interested in China and Chinese arts...
 - I was born in China,a small family in East.
 - When I am over 30,I think health is my top priority to everyone.

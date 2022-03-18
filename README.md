@@ -19,7 +19,7 @@ They can be digitally abstract to software packages(algorithm) which can be inte
 - I am happy to reply to you and chat with you as I will regularly check my business account.
 
 I was trained for a long time and have done research with practical skills in Telecommunication and software design.
-I have updated my skills and 
+I have updated my skills and have been verified by academic authority.
 
 How did I come to England?
 I finished a phonecall to international student's office ,afterwards I ended up dropping in this hole,it's an unfriendly culture full of people with free ideas.

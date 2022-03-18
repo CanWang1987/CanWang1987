@@ -22,7 +22,7 @@ I was trained for a long time and have done research with practical skills in Te
 I have updated my skills and have been verified by academic authority.
 
 How did I come to England?
-I finished a phonecall to international student's office ,afterwards I ended up dropping in this hole,it's an unfriendly culture full of people with free ideas.
+I finished a phonecall to international student's office ,afterwards I ended up dropping in this garden,it's a positive culture full of people with free ideas.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/femWpUQRKFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

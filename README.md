@@ -4,7 +4,8 @@
 - When I am over 30,I think health is my top priority to everyone.
 - We are still tiny to unexpected virus and nature disaster.
 -   家人特别是我父母是我最重要的人。
-<br/>I was born on the east coast of China and I hope to meet more decent people and live on.</br>
+-  I was born on the east coast of China and I hope to meet more decent people and live on.
+
 <a href="https://www.linkedin.com/in/can-wang-391b831a5/">My resume</a>
 
 My understanding to World Protocals?

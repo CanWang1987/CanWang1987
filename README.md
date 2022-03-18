@@ -13,7 +13,7 @@ I finished a phonecall to international student's office ,afterwards I ended up 
 
 
 # canwang
-<p>hello my name is can wang .<br/>I was born on the earth and I hope to meet more decent people.</p>
+<p>hello my name is can wang .<br/>I was born on the east coast of China and I hope to meet more decent people.</p>
 <a href="https://drive.google.com/file/d/1U4WR0645_DWYejGvzRRHOJF3pioJ4Bnh/view?usp=sharing">My resume</a></p>
 
 

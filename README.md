@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Can Wang(王璨），Graduates and IT expert from London,England.This is my CV and my blog.
 - 👀 I’m interested in China and Chinese arts...
 - I was born in China,a small family in East.
-- When I am over 30,I think health is my top priority to everyone.
+- When I am over 30,I think health is top priority to everyone.
 - We are still tiny to unexpected virus and nature disaster.
 -   家人特别是我父母是我最重要的人。
 -  I was born on the east coast of China and I hope to meet more decent people and live on.

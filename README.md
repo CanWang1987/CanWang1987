@@ -11,8 +11,7 @@ My understanding to World Protocals?
 With a couple of years collaboration with IEEE and IETF.It's fairly interesting to do research on protocals.
 They can be digitally abstract to software packages(algorithm) which can be integrated inside in order for a person(data driven digital person) to work better(more precisely).
 
-- 🌱I am away from maths for a long time.
-- 🌱 I’m currently learning engineering in London ...
+- 🌱I am away from maths for a long time.a bit hard to calculate Matrix without E-device.
 - 💞️ I’m looking to collaborate on innovative projects and advanced Maths...
 - 📫 How to reach me 
 - Please drop me an Email to workpeterwang@gmail.com along with your personal phone number....

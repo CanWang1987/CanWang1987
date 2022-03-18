@@ -5,6 +5,10 @@
 - We are still tiny to unexpected virus and nature disaster.
 -   家人特别是我父母是我最重要的人。
 
+My understanding to World Protocals?
+They can be digitally abstract to software in order for a person to be shinning.
+They are different software which can be integrated into and be running on the digital internet.
+
 
 - 🌱 I’m currently learning engineering research in London ...
 - 💞️ I’m looking to collaborate on innovative projects and advanced Maths...

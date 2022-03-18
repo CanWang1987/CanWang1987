@@ -25,7 +25,7 @@ I finished a phonecall to international student's office ,afterwards I ended up 
 
 # canwang
 <p>hello my name is can wang .<br/>I was born on the east coast of China and I hope to meet more decent people.</p>
-<a href="https://drive.google.com/file/d/1U4WR0645_DWYejGvzRRHOJF3pioJ4Bnh/view?usp=sharing">My resume</a></p>
+<a href="https://drive.google.com/file/d/1U4WR0645_DWYejGvzRRHOJF3pioJ4Bnh/view?usp=sharing">My resume</a>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/femWpUQRKFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -8,6 +8,9 @@
 - Please drop me an Email to workpeterwang@gmail.com along with your personal phone number....
 - I am happy to reply to you and chat with you as I will regularly check my business account.
 
+How did I come to England?
+I finished a phonecall to international student's office ,afterwards I ended up dropping in this hole,it's an unfriendly culture full of people with free ideas.
+
 
 # canwang
 <p>hello my name is can wang .<br/>I was born on the earth and I hope to meet more decent people.</p>

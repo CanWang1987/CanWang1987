@@ -8,6 +8,8 @@
 - Please drop me an Email to workpeterwang@gmail.com along with your personal phone number....
 - I am happy to reply to you and chat with you as I will regularly check my business account.
 
+I was trained for a long time and have done research with practical skills in Telecommunication and software design.
+
 How did I come to England?
 I finished a phonecall to international student's office ,afterwards I ended up dropping in this hole,it's an unfriendly culture full of people with free ideas.
 

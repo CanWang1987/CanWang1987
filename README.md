@@ -25,12 +25,8 @@ I finished a phonecall to international student's office ,afterwards I ended up 
 
 In my past (as a consultant) my main main area of expertise was Cisco Security Systems (ASA, FirePOWER,) Though I have deployed and worked with other vendors (Junos, SONICWALL, Smoothwall, Symantec SGS).
 
-Bench building multiple vendor (Junos SRX, and Cisco ASA 5585-X) failover firewall and DMZ Solution
-
-firewall-deployment-s
-
+![This is an image](https://www.petenetlive.com/wp-content/uploads/2015/09/firewall-deployment-s-300x169.jpg)
 In addition I have extensive knowledge of the VMware product set (vSphere, Horizon, vCloud). And many years in Microsoft client/server deployments.
-![This is an image]( https://www.petenetlive.com/wp-content/uploads/2015/09/firewall-deployment-s-300x169.jpg)
 I also have done a lot or work with Microsoft Exchange, and in addition to the posts here at PNL, You will find me active in a lot of Cisco, Microsoft and VMware online communities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/femWpUQRKFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

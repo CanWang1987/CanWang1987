@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Can Wang(王璨），Graduates and IT expert from London,England.This is my personal website and my blog.
+- 👋 Hi, I’m Can Wang(王璨），Graduates and IT expert from London,England.This is my CV and my blog.
 - 👀 I’m interested in China and Chinese arts...
 - I was born in China,a small family in East.
 - When I am over 30,I think health is my top priority to everyone.
 - We are still tiny to unexpected virus and nature disaster.
 -   家人特别是我父母是我最重要的人。
+<br/>I was born on the east coast of China and I hope to meet more decent people and live on.</p>
+<a href="https://www.linkedin.com/in/can-wang-391b831a5/">My resume</a>
 
 My understanding to World Protocals?
 They can be digitally abstract to software in order for a person to be shinning.
@@ -21,12 +23,6 @@ I have updated my skills and
 
 How did I come to England?
 I finished a phonecall to international student's office ,afterwards I ended up dropping in this hole,it's an unfriendly culture full of people with free ideas.
-
-
-# canwang
-<p>hello my name is can wang .<br/>I was born on the east coast of China and I hope to meet more decent people.</p>
-<a href="https://drive.google.com/file/d/1U4WR0645_DWYejGvzRRHOJF3pioJ4Bnh/view?usp=sharing">My resume</a>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/femWpUQRKFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

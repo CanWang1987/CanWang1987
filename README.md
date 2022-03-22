@@ -2,7 +2,7 @@
 - 👀 I’m interested in China and Chinese arts...
 - When I am over 30,I think health is top priority to everyone.
 - We are still tiny to unexpected virus and nature disaster.
--   家人特别是我父母是我最重要的人。
+-   家人特别是我父母是我最重要的人。Plus,I respect my academic supervisor.
 -  I was born on the east coast of China,a small family on East Coast. and I hope to meet more decent people and live on.
 
 <a href="https://www.linkedin.com/in/can-wang-391b831a5/">My resume</a>
@@ -23,7 +23,7 @@ I have updated my skills and have been verified by academic authority.
 How did I come to England?
 I finished a phonecall to international student's office ,afterwards I ended up dropping in this garden,it's a positive culture full of people with free ideas.
 
-In my past (as a consultant) my main main area of expertise was Cisco Security Systems (ASA, FirePOWER,) Though I have deployed and worked with other vendors (Junos, SONICWALL, Smoothwall, Symantec SGS).
+In my past (as a consultant) my main area of expertise was  Intelligent information Systems (ASA, FirePOWER,) Though I have deployed and worked with other vendors (Junos, SONICWALL, Smoothwall, Symantec SGS).
 
 ![This is an image](https://www.petenetlive.com/wp-content/uploads/2015/09/firewall-deployment-s-300x169.jpg)
 In addition I have extensive knowledge of the VMware product set (vSphere, Horizon, vCloud). And many years in Microsoft gloden partner with respect to client/server deployments.

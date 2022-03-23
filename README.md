@@ -29,7 +29,7 @@ In my past (as a consultant) my main area of expertise was  Intelligent informat
 In addition I have extensive knowledge of the VMware product set (vSphere, Horizon, vCloud). And many years in Microsoft gloden partner with respect to client/server deployments.
 I also have done a lot or work with Microsoft and Cisco golden tech consultant(, and in addition to the posts here at PNL, You will find me active in a lot of Cisco, Microsoft and VMware online communities.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/femWpUQRKFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MV1PeHydfdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!---

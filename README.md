@@ -27,6 +27,7 @@ I finished a phonecall to international student's office ,afterwards I ended up 
 In my past (as a consultant) my main area of expertise was  Intelligent information Systems (ASA, FirePOWER,) Though I have deployed and worked with other vendors (Junos, SONICWALL, Smoothwall, Symantec SGS).
 
 ![This is an image](https://www.petenetlive.com/wp-content/uploads/2015/09/firewall-deployment-s-300x169.jpg)
+![This is an image](https://www.gigabyte.cn/Image/44f6966706fdcc50c5b8d014df991339/Product/30920/webp/500)
 In addition I have extensive knowledge of the VMware product set (vSphere, Horizon, vCloud). And many years in Microsoft gloden partner with respect to client/server deployments.
 I also have done a lot or work with Microsoft and Cisco golden tech consultant(, and in addition to the posts here at PNL, You will find me active in a lot of Cisco, Microsoft and VMware online communities.
 

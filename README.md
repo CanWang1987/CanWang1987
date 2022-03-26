@@ -25,9 +25,11 @@ How did I come to England?
 I finished a phonecall to international student's office ,afterwards I ended up dropping in this garden,it's a positive culture full of people with free ideas.
 
 In my past (as a consultant) my main area of expertise was  Intelligent information Systems (ASA, FirePOWER,) Though I have deployed and worked with other vendors (Junos, SONICWALL, Smoothwall, Symantec SGS).
+Load Balance/
 
 ![This is an image](https://www.petenetlive.com/wp-content/uploads/2015/09/firewall-deployment-s-300x169.jpg)
 ![This is an image](https://www.gigabyte.cn/Image/44f6966706fdcc50c5b8d014df991339/Product/30920/webp/500)
+![This is an image](https://cmsdownload.sangfor.com.cn/-/media/3BB38A9903C840239F371F3A8C8721A5.svg?la=zh-CN&rev=151e5558f1c940c4a3986d135564c96c&hash=2B74F107196EC8316CC411613549D8C4)
 In addition I have extensive knowledge of the VMware product set (vSphere, Horizon, vCloud). And many years in Microsoft gloden partner with respect to client/server deployments.
 I also have done a lot or work with Microsoft and Cisco golden tech consultant(, and in addition to the posts here at PNL, You will find me active in a lot of Cisco, Microsoft and VMware online communities.
 

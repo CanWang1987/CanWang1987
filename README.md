@@ -21,8 +21,8 @@ They can be digitally abstract to software packages(algorithm) which can be inte
 I was trained for a long time and have done research with practical skills in Telecommunication and software design.
 I have updated my skills and have been verified by academic authority.
 
-How did I come to England?
-I finished a phonecall to international student's office ,afterwards I ended up dropping in this garden,it's a positive culture full of people with free ideas.
+How did I escape from regine (persecution) and come to England?
+I finished a skype phonecall to international student's office ,afterwards I ended up reaching England,it's a positive culture full of people with free ideas.
 
 In my past (as a consultant) my main area of expertise was  Intelligent information Systems (ASA, FirePOWER,) Though I have deployed and worked with other vendors (Junos, SONICWALL, Smoothwall, Symantec SGS).
 Load Balance/

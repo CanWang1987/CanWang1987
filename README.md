@@ -8,12 +8,12 @@
 <a href="https://docs.google.com/document/d/1bLRebYt8LVb1URxftJRfq-NPrInEMYyKRcSoJSe-jio/edit?usp=sharing">My resume</a>
 <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcan-wang-391b831a5%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'><a href='https://www.qr-code-generator.com' border='0' style='cursor:default'  rel='nofollow'></a>
 
-<form action=" https://www.google.com" target="_blank">
+<form action=" https://www.bing.com" target="_blank">
 <table bgcolor="#FFFFFF"><tr><td>
 <input name=tn type=hidden value=baidu>
-<a href=" http://www.baidu.com/"><img src=" http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a>
+<a href=" https://www.bing.com/"><img src=" https://www.bing.com/th?id=OHR.FloatingPyramid_EN-GB9254970290_tmb.jpg" alt="Bing" align="bottom" border="0"></a>
 <input type=text name=word size=30>
-<input type="submit" value="google">
+<input type="submit" value="bing">
 </td></tr></table>
 </form>
 My understanding to World Protocals?

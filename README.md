@@ -34,7 +34,14 @@ In addition I have extensive knowledge of the VMware product set (vSphere, Horiz
 I also have done a lot or work with Microsoft and Cisco golden tech consultant(, and in addition to the posts here at PNL, You will find me active in a lot of Cisco, Microsoft and VMware online communities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MV1PeHydfdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://https://www.google.com/"></iframe>
+<form action=" http://www.baidu.com/baidu" target="_blank">
+<table bgcolor="#FFFFFF"><tr><td>
+<input name=tn type=hidden value=baidu>
+<a href=" http://www.baidu.com/"><img src=" http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a>
+<input type=text name=word size=30>
+<input type="submit" value="百度搜索">
+</td></tr></table>
+</form>
 
 
 <!---

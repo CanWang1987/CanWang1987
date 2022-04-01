@@ -8,6 +8,14 @@
 <a href="https://docs.google.com/document/d/1bLRebYt8LVb1URxftJRfq-NPrInEMYyKRcSoJSe-jio/edit?usp=sharing">My resume</a>
 <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcan-wang-391b831a5%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'><a href='https://www.qr-code-generator.com' border='0' style='cursor:default'  rel='nofollow'></a>
 
+<form action=" https://www.google.com" target="_blank">
+<table bgcolor="#FFFFFF"><tr><td>
+<input name=tn type=hidden value=baidu>
+<a href=" http://www.baidu.com/"><img src=" http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a>
+<input type=text name=word size=30>
+<input type="submit" value="google">
+</td></tr></table>
+</form>
 My understanding to World Protocals?
 With a couple of years collaboration with IEEE and IETF.It's fairly interesting to do research on protocals.
 They can be digitally abstract to software packages(algorithm) which can be integrated inside in order for AI(data driven digital person) to make decision better(more precisely).
@@ -34,14 +42,7 @@ In addition I have extensive knowledge of the VMware product set (vSphere, Horiz
 I also have done a lot or work with Microsoft and Cisco golden tech consultant(, and in addition to the posts here at PNL, You will find me active in a lot of Cisco, Microsoft and VMware online communities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MV1PeHydfdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<form action=" http://www.baidu.com/baidu" target="_blank">
-<table bgcolor="#FFFFFF"><tr><td>
-<input name=tn type=hidden value=baidu>
-<a href=" http://www.baidu.com/"><img src=" http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0"></a>
-<input type=text name=word size=30>
-<input type="submit" value="百度搜索">
-</td></tr></table>
-</form>
+
 
 
 <!---

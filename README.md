@@ -5,7 +5,7 @@
 -   家人特别是我父母是我最重要的人。Plus,I respect my academic supervisor.
 -  I was born on the east coast of China,a small family on East Coast. and I hope to meet more decent people and live on.
 
-<a href="https://docs.google.com/document/d/1bLRebYt8LVb1URxftJRfq-NPrInEMYyKRcSoJSe-jio/edit?usp=sharing">My resume</a>
+<a href="https://drive.google.com/file/d/1VzqVHHf8kOi4a_hPP7qx-vOY9ZwXxmhG/view?usp=sharing">My resume</a>
 <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcan-wang-391b831a5%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'><a href='https://www.qr-code-generator.com' border='0' style='cursor:default'  rel='nofollow'></a>
 
 <form action=" https://www.bing.com" target="_blank">

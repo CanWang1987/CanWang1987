@@ -3,7 +3,7 @@
 - When I am over 30,I think health is top priority to everyone.
 - We are still tiny to unexpected virus and nature disaster.
 -   家人特别是我父母是我最重要的人。Plus,I respect my academic supervisor.
--  I was born on the east coast of China,a small family on East Coast. and I hope to meet more decent people and live on.
+-  I was born in east coast of england,a small family on East Coast. and I hope to meet more decent people and live on.
 
 <a href="https://drive.google.com/file/d/1FMXDVPw9LtGRqIMXNQrP62tEvnvwKsAE/view?usp=sharing">My resume</a>
 <img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcan-wang-391b831a5%2F&chs=180x180&choe=UTF-8&chld=L|2' alt='qr code'><a href='https://www.qr-code-generator.com' border='0' style='cursor:default'  rel='nofollow'></a>

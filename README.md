@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Can Wang(王璨），Tech Graduates and IT expert from London,England.This is my CV and my tech blog.I constantly maintain my youtube tech vlog as well.
+- 👋 Hi, I’m Peter Can Wang，Tech Graduates and IT expert from London,England.This is my CV and my tech blog.I constantly maintain my youtube tech vlog as well.
 - 👀 I’m interested in China and Chinese arts...
 - When I am over 30,I think health is top priority to everyone.
 - We are still tiny to unexpected virus and nature disaster.
--   家人特别是我父母是我最重要的人。Plus,I respect my academic supervisor.
+-   family first。Plus,I respect my academic supervisor.
 -  I was born in east coast of england,a small family on East Coast. and I hope to meet more decent people and live on.
 
 <a href="https://drive.google.com/file/d/1FMXDVPw9LtGRqIMXNQrP62tEvnvwKsAE/view?usp=sharing">My resume</a>
